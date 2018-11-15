@@ -1,6 +1,5 @@
 ---
 layout: post
-id: 217
 title: Angularjs Google Places Autocomplete
 date: 2015-09-24T21:34:20+00:00
 author: Hasan Ali Karaca
