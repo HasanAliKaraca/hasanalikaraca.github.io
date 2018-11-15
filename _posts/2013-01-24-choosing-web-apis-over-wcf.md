@@ -10,7 +10,12 @@ sfw_pwd:
   - LG5jOVJ1q77Z
 categories:
   - Uncategorized
+layout: post
 ---
+
+{{ page.title }}
+================
+
 >   * If your intention is to create services that support special scenarios – one way messaging, message queues, duplex communication etc, then you’re better of picking WCF
 >   * If you want to create services that can use fast transport channels when available, such as TCP, Named Pipes, or maybe even UDP (in WCF 4.5), and you also want to support HTTP when all other transports are unavailable, then you’re better off with WCF and using both SOAP-based bindings and the WebHttp binding.
 >   * If you want to create resource-oriented services over HTTP that can use the full features of HTTP – define cache control for browsers, versioning and concurrency using ETags, pass various content types such as images, documents, HTML pages etc., use URI templates to include Task URIs in your responses, then the new Web APIs are the best choice for you.

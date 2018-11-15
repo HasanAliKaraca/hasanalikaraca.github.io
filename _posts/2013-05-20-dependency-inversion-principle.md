@@ -13,7 +13,12 @@ categories:
 tags:
   - dependency inversion principle
   - design patterns
+layout: post
 ---
+
+{{ page.title }}
+================
+
 <img style="height:300px;width:500px" src="http://ircmaxell.github.io/DontBeStupid-Presentation/assets/images/dependency_inversion_principle.jpg" alt="" />
 
 1. ProductServiceBeforeDIP

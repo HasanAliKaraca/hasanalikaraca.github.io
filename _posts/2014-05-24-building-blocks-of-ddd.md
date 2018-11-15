@@ -16,7 +16,12 @@ sfw_pwd:
   - sRALlPvaL4rt
 categories:
   - Uncategorized
+layout: post
 ---
+
+{{ page.title }}
+================
+
 <div id="attachment_167" style="width: 646px" class="wp-caption alignnone">
   <a href="http://hasanalikaraca.com/wp-content/uploads/2014/05/BuildingBlocksOfDDD.png"><img class="size-full wp-image-167" alt="BuildingBlocksOfDDD" src="http://hasanalikaraca.com/wp-content/uploads/2014/05/BuildingBlocksOfDDD.png" width="636" height="456" /></a>
   

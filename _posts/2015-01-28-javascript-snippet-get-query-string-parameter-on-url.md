@@ -16,7 +16,11 @@ sfw_pwd:
   - hOvow4kIXWsu
 categories:
   - Uncategorized
+layout: post
 --- 
+
+{{ page.title }}
+================
 
 get query string parameter on url:
 

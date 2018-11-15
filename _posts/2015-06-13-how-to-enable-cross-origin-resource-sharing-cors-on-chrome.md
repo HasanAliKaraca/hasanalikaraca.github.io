@@ -10,7 +10,12 @@ sfw_pwd:
   - sAb2UXgldCfa
 categories:
   - Uncategorized
+layout: post
 ---
+
+{{ page.title }}
+================
+
 For development purposes add &#8220;&#8211;disable-web-security&#8221; flag to the chrome shortcut.
 
 eg:

@@ -10,7 +10,12 @@ sfw_pwd:
   - Dhp2I9BElDU6
 categories:
   - 'c#'
+layout: post
 ---
+
+{{ page.title }}
+================
+
 <pre class="brush: csharp; title: ; notranslate" title="">//this creates an empty guid - 00000000-0000-0000-0000-000000000000
 //Guid guid = new Guid();
 

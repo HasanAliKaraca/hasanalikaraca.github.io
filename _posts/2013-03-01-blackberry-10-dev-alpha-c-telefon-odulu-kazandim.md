@@ -10,7 +10,12 @@ sfw_pwd:
   - Rwk20ohHRMKx
 categories:
   - BlackBerry
+layout: post
 ---
+
+{{ page.title }}
+================
+
 BlackBerry için geliştirdiğim uygulamardan ötürü çekiliş sonucunda BlackBerry dev alpha b ve blackberry dev alpha c telefon ödüllerini kazandım. Elime geçtiğinde fotoğraflarını yayınlayacağım <img src="http://hasanalikaraca.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Teşekkürler BlackBerry!

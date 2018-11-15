@@ -16,7 +16,12 @@ sfw_pwd:
   - QAiCu03Jovkw
 categories:
   - Entity Framework
+layout: post
 ---
+
+{{ page.title }}
+================
+
 <a title="http://allen-conway-dotnet.blogspot.com.tr/2013/01/separating-entity-framework-poco.html" href="http://allen-conway-dotnet.blogspot.com.tr/2013/01/separating-entity-framework-poco.html" target="_blank">http://allen-conway-dotnet.blogspot.com.tr/2013/01/separating-entity-framework-poco.html</a>
 
 <div class="addtoany_share_save_container addtoany_content_bottom">

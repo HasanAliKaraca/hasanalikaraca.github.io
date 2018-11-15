@@ -16,7 +16,12 @@ sfw_pwd:
   - rFRYqFjk6eOf
 categories:
   - Uncategorized
+layout: post
 ---
+
+{{ page.title }}
+================
+
 If you have normal form(like all text fields) to serialize form data use 
 
 <pre class="brush: jscript; title: ; notranslate" title="">$("#my-form").serialize(); 

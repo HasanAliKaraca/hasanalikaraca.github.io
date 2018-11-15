@@ -10,7 +10,12 @@ sfw_pwd:
   - mZFmosqcDtpH
 categories:
   - Uncategorized
+layout: post
 ---
+
+{{ page.title }}
+================
+
 %JAVA\_HOME% = &#8220;C:\Program Files (x86)\Java\jdk1.6.0\_22&#8243;
   
 %ANT_HOME% = &#8220;C:\ant&#8221;

@@ -16,7 +16,12 @@ sfw_pwd:
   - ptLghcTCzwtI
 categories:
   - Uncategorized
+layout: post
 ---
+
+{{ page.title }}
+================
+
 1) use nvarchar or nchar datatype
   
 2) insert values with N prefix. eg: 

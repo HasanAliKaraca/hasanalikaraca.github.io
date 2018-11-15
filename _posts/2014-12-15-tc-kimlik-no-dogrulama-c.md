@@ -16,7 +16,12 @@ sfw_pwd:
   - rKZijsZAAphE
 categories:
   - Uncategorized
+layout: post
 ---
+
+{{ page.title }}
+================
+
 ### Kurallar:
 
   * 11 haneli bir rakamdır.

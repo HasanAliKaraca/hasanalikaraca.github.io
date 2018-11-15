@@ -12,7 +12,12 @@ categories:
   - 'c#'
 tags:
   - 'c#'
+layout: post
 ---
+
+{{ page.title }}
+================
+
 Not: Gmail smtp servisi faal olmadığından hotmail için yazdım. SmtpHost ve SmtpPort bilgileri değiştirilerek, başka bir servis için rahatlıkla kullanabilir.
 
 Yeni bir konsol projesi için aşağıdaki kod kullanabilir.

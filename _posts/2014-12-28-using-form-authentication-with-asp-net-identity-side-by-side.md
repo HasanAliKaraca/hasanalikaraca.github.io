@@ -16,7 +16,12 @@ sfw_pwd:
   - MPOuLADoxMA5
 categories:
   - Uncategorized
+layout: post
 ---
+
+{{ page.title }}
+================
+
 If you want to use form authentication and asp.net identity and in your web config
 
 <authentication mode="Forms">

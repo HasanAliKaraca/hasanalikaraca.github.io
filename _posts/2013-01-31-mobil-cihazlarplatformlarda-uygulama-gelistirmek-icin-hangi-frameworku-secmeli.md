@@ -10,7 +10,12 @@ sfw_pwd:
   - GTv8Ce22DC70
 categories:
   - BlackBerry
+layout: post
 ---
+
+{{ page.title }}
+================
+
 Mobil frameworklar arasında tercih yapmakta kullanmak için iyi bir araç:
 
 <a href="http://www.markus-falk.com/mobile-frameworks-comparison-chart/" title="http://www.markus-falk.com/mobile-frameworks-comparison-chart/" target="_blank">http://www.markus-falk.com/mobile-frameworks-comparison-chart/</a>
